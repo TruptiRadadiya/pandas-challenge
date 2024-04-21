@@ -16,5 +16,5 @@ This jupyter notebook contains analysis of school performance using the provided
 ### How to use the code?
 
 1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook file - school_performance_analysis.ipynb - using Jupyter Notebook.
+2. Open the Jupyter Notebook file - PyCitySchools_starter.ipynb - using Jupyter Notebook.
 3. Run each cell sequentially to execute the analysis and view the results.
